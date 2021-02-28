@@ -2,3 +2,8 @@
 
 Cypress and Jest weren't working too well together
 so we've separated the two out in different parts
+
+# INFO
+Name: Michael Maddy
+
+PID: A15516883
